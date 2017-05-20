@@ -1,0 +1,8 @@
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+
+#container {
+  background: lightgray;
+  width: 360px;
+  margin: 0 auto;
+  border: 2px solid gray;
+}
